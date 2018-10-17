@@ -1,0 +1,97 @@
+.dropdown-menu{
+    display: none;
+    position: absolute;
+}
+
+nav ul li:hover ul{
+    display: block;
+    background-color:white;
+}
+
+.col-md-8 {
+    margin-left: -10px;
+}
+
+
+.container h2 {
+    color:  black;
+    padding-top: 30px;
+    padding-left: 90px;
+    font-family: Book Antiqua;
+    font-weight: bold;
+}
+
+.container p {
+    display: block;
+    padding: 10px;
+    line-height: 2.2;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: black;
+}
+
+.col-md-8 {
+    border-right: solid rgb(226, 225, 225);
+    border-right-width: 60px;
+    padding: 60px;
+}
+
+.container img {
+    display: inline;
+    margin: 20px 20px;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    font-family: Book Antiqua;
+    font-weight: bold;
+    color: black;
+    background: white;
+}
+
+.navbar {
+    background: black;
+    font-size: 20px;
+    padding-left: 90px;
+    padding-right: 100px;
+  }
+
+.container h3 {color: rgb(6, 6, 107);
+    text-align: center;
+    font-family: Book Antiqua;
+    font-weight: bold;
+
+}
+
+#maintable td, th { border: none !important; 
+text-align:  center;}  
+
+
+#maintable th {  
+    background: #F3F3F3; /* Light grey background */
+    font-weight: bold; /* Make sure they're bold */
+}
+
+#maintable td {  
+    background: #FAFAFA; /* Lighter grey background */
+    text-align: center; /* Center our text */
+}
+
+thead {
+    background-color: rgb(1, 3, 5);
+    color: #FFFFFF;
+}
+
+.sidenav {
+    position: absolute;
+    top: 15%;
+    left: 115%;
+    background-color: rgb(226, 225, 225);
+}
+
+
+
+
+
+
+
