@@ -89,6 +89,34 @@ thead {
     background-color: rgb(226, 225, 225);
 }
 
+.first_footer{
+    position: relative;
+    width:100%;
+    background-color: rgb(19, 172, 121);
+    height:5px;
+    margin: 250px 100px 0px 0px;
+    margin-top: 5px
+   
+}
+
+.Sec_footer{
+    position: relative;
+    width:100%;
+    background-color: grey;
+    height:50px;
+    margin: 0px 0px 0px 0px;
+    margin-top: 5px
+    
+
+}
+
+.copy_right{
+    color:white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 45px; 
+}
+
 
 
 
